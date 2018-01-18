@@ -1,0 +1,5 @@
+CMakeFiles/
+ext/
+.vscode/
+*.cmake
+Makefile

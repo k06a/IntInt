@@ -7,6 +7,7 @@ using namespace intint;
 
 int main(int argc, char *argv[]) {
 
+/*
     typedef IntInt<uint8_t> u16;
     typedef IntInt<uint16_t> u32;
 
@@ -47,4 +48,5 @@ int main(int argc, char *argv[]) {
             }
         }
     }
+*/
 }
